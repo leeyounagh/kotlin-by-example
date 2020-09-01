@@ -1,0 +1,8 @@
+fun main(args: array<String>){
+
+var a = 1
+a =2
+
+printin(a)
+
+}
